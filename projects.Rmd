@@ -18,7 +18,7 @@ th {
 
 <table style="width:100%">
   <tr>
-    <td> <a href = "url"> <p style="font-size:25px;color:black;">US Crime Data </p></a> </td>
+    <td> <a href = " https://dani-quigee-shiny.shinyapps.io/Shiny_Viz/"> <p style="font-size:25px;color:black;">US Crime Data </p></a> </td>
     <td> <p style="font-size:20px;color:black;">Visualization of US Crime Data retrieved from the FBI and NYPD</p></td>
   </tr>
   
