@@ -1,0 +1,32 @@
+---
+title: "Projects"
+---
+
+<html>
+
+<head>
+<style>
+th {
+  text-align: left;
+}
+</style>
+</head>
+
+<body>
+
+<br><br><br><br>
+
+<table style="width:100%">
+  <tr>
+    <td> <a href = "url"> <p style="font-size:25px;color:black;">US Crime Data </p></a> </td>
+    <td> <p style="font-size:20px;color:black;">Visualization of US Crime Data retrieved from the FBI and NYPD</p></td>
+  </tr>
+  
+  
+</table>
+
+</body>
+</html>
+
+
+

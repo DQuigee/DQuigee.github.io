@@ -1,0 +1,23 @@
+h1 {
+  color: #69899f;
+}
+
+body {
+  background-color: Whitesmoke;
+}
+
+.navbar{
+  background-color: Whitesmoke;
+}
+
+para_1 {
+  color: #69899f; 
+}
+
+para_2 {
+  color: #69899f; 
+}
+
+.nav-pills >li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    background-color: White;
+}

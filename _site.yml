@@ -1,0 +1,20 @@
+name: "Daniela Quigee"
+output_dir: "."
+navbar:
+  title: "Home"
+
+
+  left:
+    - text: "Projects"
+      href: projects.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<dq2147@columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/DQuigee
+      
+output:
+  html_document:
+    theme: paper
+    css: styles.css
